@@ -1,2 +1,8 @@
-# LSC-Aesthetic-Parameters
-This is a simple procedure for assessing LSC aesthetic indicators and related documents
+# color
+
+### cur.py 是模拟光谱相对功率分布的函数，使用的高斯函数进行模拟；
+### xyz.py 计算光谱的色坐标；
+### tem.py 计算色温
+### ra.py 计算显色指数
+
+### 目前程序输入参数是列表，既可以输入多组光谱进行合成想要的光色，例如白光。
